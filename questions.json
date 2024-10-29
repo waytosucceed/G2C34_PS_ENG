@@ -1,0 +1,242 @@
+{
+  "heading": "Prefixes and Suffixes",
+  "topics": [
+    {
+      "heading": "Prefixes and Suffixes",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Choose the word that means \"to write again\":",
+          "options": [
+            { "text": "Prewrite" },
+            { "text": "Miswrite" },
+            { "text": "Rewrite" },
+            { "text": "Writeful" }
+          ],
+          "answer": 2,
+          "explanation": "\"Rewrite\" means to write something again. The prefix \"re-\" means \"again,\" so when we add it to \"write,\" we get \"rewrite,\" which means to write something one more time, often to improve it."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which word means \"full of beauty\"?",
+          "options": [
+            { "text": "Rebeauty" },
+            { "text": "Misbeauty" },
+            { "text": "Beautiful" },
+            { "text": "Beautyless" }
+          ],
+          "answer": 2,
+          "explanation": "\"Beautiful\" means full of beauty or very pretty. The suffix \"-ful\" means \"full of,\" so when we add it to \"beauty,\" we get \"beautiful,\" which describes something that has a lot of beauty or is very pleasing to look at."
+        },
+        {
+          "questionNo": 3,
+          "question": "What does \"powerless\" mean?",
+          "options": [
+            { "text": "Full of power" },
+            { "text": "Without power" },
+            { "text": "Before power" },
+            { "text": "Wrong power" }
+          ],
+          "answer": 1,
+          "explanation": "\"Powerless\" means without power or unable to do anything. The suffix \"-less\" means \"without,\" so when we add it to \"power,\" we get \"powerless,\" which describes a situation where someone doesn't have the ability or strength to change things."
+        },
+        {
+          "questionNo": 4,
+          "question": "Which word means \"to heat again\"?",
+          "options": [
+            { "text": "Reheat" },
+            { "text": "Misheat" },
+            { "text": "Preheat" },
+            { "text": "Heatful" }
+          ],
+          "answer": 0,
+          "explanation": "\"Reheat\" means to heat something again. The prefix \"re-\" means \"again,\" so when we add it to \"heat,\" we get \"reheat,\" which means to make something warm one more time, often with food that has already been cooked."
+        },
+        {
+          "questionNo": 5,
+          "question": "Choose the correct spelling:",
+          "options": [
+            { "text": "Australia" },
+            { "text": "Austalia" },
+            { "text": "Autrelia" }
+          ],
+          "answer": 0,
+          "explanation": "The correct spelling is “A-U-S-T-R-A-L-I-A.” Australia is a country famous for its natural wonders, wide-open spaces, beaches, deserts, \"The Bush,\" and \"The Outback.\""
+        },
+        {
+          "questionNo": 6,
+          "question": "What does \"prepack\" mean?",
+          "options": [
+            { "text": "Pack again" },
+            { "text": "Pack wrongly" },
+            { "text": "Pack before" }
+          ],
+          "answer": 2,
+          "explanation": "\"Prepack\" means to pack something before it's needed or sold. The prefix \"pre-\" means \"before,\" so \"prepack\" is when we prepare and package something ahead of time."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which word means \"full of joy\"?",
+          "options": [
+            { "text": "Rejoy" },
+            { "text": "Misjoy" },
+            { "text": "Joyless" },
+            { "text": "Joyful" }
+          ],
+          "answer": 3,
+          "explanation": "\"Joyful\" means full of joy or very happy. The suffix \"-ful\" means \"full of,\" so when we add it to \"joy,\" we get \"joyful,\" which describes someone or something that has a lot of happiness or brings happiness to others."
+        },
+        {
+          "questionNo": 8,
+          "question": "What does \"careless\" mean?",
+          "options": [
+            { "text": "Full of care" },
+            { "text": "Without care" },
+            { "text": "Before care" },
+            { "text": "None of the above" }
+          ],
+          "answer": 1,
+          "explanation": "\"Careless\" means without care or not being careful. The suffix \"-less\" means \"without,\" so when we add it to \"care,\" we get \"careless,\" which describes someone who doesn't pay attention to details or doesn't try to avoid mistakes."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which word means \"to arrange again\"?",
+          "options": [
+            { "text": "Rearrange" },
+            { "text": "Misarrange" },
+            { "text": "Prearrange" }
+          ],
+          "answer": 0,
+          "explanation": "\"Rearrange\" means to arrange something again or differently. The prefix \"re-\" means \"again,\" so when we add it to \"arrange,\" we get \"rearrange,\" which means to change the order or position of things one more time."
+        },
+        {
+          "questionNo": 10,
+          "question": "What does \"preorder\" mean?",
+          "options": [
+            { "text": "Order again" },
+            { "text": "Order wrongly" },
+            { "text": "Order before" },
+            { "text": "Full of orders" }
+          ],
+          "answer": 2,
+          "explanation": "\"Preorder\" means to order something before it's available. The prefix \"pre-\" means \"before,\" so \"preorder\" is when we ask for something to be reserved or purchased before it's officially released or in stock."
+        },
+        {
+          "questionNo": 11,
+          "question": "Choose the word that means \"to lead wrongly\":",
+          "options": [
+            { "text": "Relead" },
+            { "text": "Mislead" },
+            { "text": "Prelead" },
+            { "text": "Leadful" }
+          ],
+          "answer": 1,
+          "explanation": "\"Mislead\" means to lead someone in the wrong direction or give incorrect information. The prefix \"mis-\" means \"wrongly\" or \"badly,\" so when we add it to \"lead,\" it means to guide someone in a way that's not right or true."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which word means \"full of wonder\"?",
+          "options": [
+            { "text": "Rewonder" },
+            { "text": "Miswonder" },
+            { "text": "Wonderful" }
+          ],
+          "answer": 2,
+          "explanation": "\"Wonderful\" means full of wonder or amazing. The suffix \"-ful\" means \"full of,\" so when we add it to \"wonder,\" we get \"wonderful,\" which describes something that's great or causes a feeling of awe."
+        },
+        {
+          "questionNo": 13,
+          "question": "What does \"speechless\" mean?",
+          "options": [
+            { "text": "Full of speech" },
+            { "text": "Without speech" },
+            { "text": "Before speech" },
+            { "text": "Wrong speech" }
+          ],
+          "answer": 1,
+          "explanation": "\"Speechless\" means without speech or unable to speak, often because of surprise or strong emotion. The suffix \"-less\" means \"without,\" so when we add it to \"speech,\" we get \"speechless,\" which describes someone who is so surprised that they can't find words to say."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which word means \"to think before\"?",
+          "options": [
+            { "text": "Rethink" },
+            { "text": "Misthink" },
+            { "text": "Prethink" }
+          ],
+          "answer": 2,
+          "explanation": "\"Prethink\" means to think about something before it happens. The prefix \"pre-\" means \"before,\" so when we add it to \"think,\" we get \"prethink,\" which means to consider or plan something ahead of time."
+        },
+        {
+          "questionNo": 15,
+          "question": "What does \"sleepless\" mean?",
+          "options": [
+            { "text": "Full of sleep" },
+            { "text": "Without sleep" },
+            { "text": "Before sleep" },
+            { "text": "Wrong sleep" }
+          ],
+          "answer": 1,
+          "explanation": "\"Sleepless\" means without sleep or unable to sleep. The suffix \"-less\" means \"without,\" so when we add it to \"sleep,\" we get \"sleepless,\" which describes someone who can't fall asleep or hasn't slept."
+        },
+        {
+          "questionNo": 16,
+          "question": "Choose the word that means \"to appear again\":",
+          "options": [
+            { "text": "Preappear" },
+            { "text": "Misappear" },
+            { "text": "Appearful" },
+            { "text": "Reappear" }
+          ],
+          "answer": 3,
+          "explanation": "\"Reappear\" means to appear again or come back into view. The prefix \"re-\" means \"again,\" so when we add it to \"appear,\" we get \"reappear,\" which means to show up or become visible one more time."
+        },
+        {
+          "questionNo": 17,
+          "question": "Which word means \"full of peace\"?",
+          "options": [
+            { "text": "Repeace" },
+            { "text": "Mispeace" },
+            { "text": "Peaceful" }
+          ],
+          "answer": 2,
+          "explanation": "\"Peaceful\" means full of peace or very calm. The suffix \"-ful\" means \"full of,\" so when we add it to \"peace,\" we get \"peaceful,\" which describes a situation or place that is quiet, calm, and without conflict."
+        },
+        {
+          "questionNo": 18,
+          "question": "What does \"mismatch\" mean?",
+          "options": [
+            { "text": "Match wrongly" },
+            { "text": "Match before" },
+            { "text": "Match again" }
+          ],
+          "answer": 0,
+          "explanation": "\"Mismatch\" means to match things wrongly or put together things that don't go well together. The prefix \"mis-\" means \"wrongly\" or \"badly,\" so when we add it to \"match,\" it means to combine things that don't fit or belong together."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which word means \"to load before\"?",
+          "options": [
+            { "text": "Reload" },
+            { "text": "Preload" },
+            { "text": "Misload" }
+          ],
+          "answer": 1,
+          "explanation": "\"Preload\" means to load something before it's needed. The prefix \"pre-\" means \"before,\" so when we add it to \"load,\" we get \"preload,\" which means to put things in or on something ahead of time."
+        },
+        {
+          "questionNo": 20,
+          "question": "What does \"restless\" mean?",
+          "options": [
+            { "text": "Full of rest" },
+            { "text": "Without rest" },
+            { "text": "Before rest" },
+            { "text": "Wrong rest" }
+          ],
+          "answer": 1,
+          "explanation": "\"Restless\" means without rest or unable to relax or be still. The suffix \"-less\" means \"without,\" so when we add it to \"rest,\" we get \"restless,\" which describes someone who can't sit still or feels anxious."
+        }
+      ]
+    }
+  ]
+}
